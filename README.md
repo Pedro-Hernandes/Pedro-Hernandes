@@ -10,12 +10,13 @@
   </a> 
   <img width="40" height="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="Pedro-Js" style="vertical-align: middle;"/>
 <img width="40" height="40" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="Pedro-Ts" style="vertical-align: middle;"/>
+<img width="40" height="40" src="https://img.icons8.com/officel/80/react.png" alt="Pedro-React" style="vertical-align: middle;"/>
+<img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="Pedro-Html" style="vertical-align: middle;"/>
 
 
 
 
-  <img alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="vertical-align: middle;">
-  <img alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="vertical-align: middle;">
+
   <img alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="vertical-align: middle;">
   <img alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="vertical-align: middle;">
 </div>
